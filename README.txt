@@ -6,3 +6,5 @@
 		#define FILE_DIR "/mnt/hgfs/log/vm_log/"
 	2)run udpserver with your port to listen.
 		./udpserver [port]
+
+successful!
